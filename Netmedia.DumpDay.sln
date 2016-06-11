@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netmedia", "netmedia\Netmedia.csproj", "{478446BA-453B-40D4-808A-D45FCC2BCFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netmedia.DumpDay", "Netmedia.DumpDay\Netmedia.DumpDay.csproj", "{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478446BA-453B-40D4-808A-D45FCC2BCFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478446BA-453B-40D4-808A-D45FCC2BCFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478446BA-453B-40D4-808A-D45FCC2BCFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478446BA-453B-40D4-808A-D45FCC2BCFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478446BA-453B-40D4-808A-D45FCC2BCFDB}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{478446BA-453B-40D4-808A-D45FCC2BCFDB}.Test|Any CPU.Build.0 = Test|Any CPU
+		{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BE7F3B-86E0-4CA4-97E8-467B0644D764}.Test|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
