@@ -1,5 +1,7 @@
 #Angular 2 and TypeScript
-##Presentation demo of Angular 2 and TypeScript
+
+Presentation demo of Angular 2 and TypeScript
+
 ***Running demos***
 
 To run the demos, you need Visual Studio 2015 with .NET 4.5 together with Node.
