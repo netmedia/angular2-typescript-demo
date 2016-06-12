@@ -12,3 +12,10 @@ Just restore the packages in Visual Studio, and run `npm install` to restore Nod
 
  [DUMP Day 2016 look back and session materials
 ](http://netmedia.io/conferences/dump-day-2016-look-back-and-session-materials_5517)
+
+
+***Meet us***
+
+[Instagram](http://instagram.com/netmdia)
+[Twitter] (http://twitter.com/nmdia)
+[Facebook](http://www.facebook.com/nmdia)
