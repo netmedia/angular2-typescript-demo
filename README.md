@@ -16,6 +16,7 @@ Just restore the packages in Visual Studio, and run `npm install` to restore Nod
 
 ***Meet us***
 
+[NETMedia](http://netmedia.io)
 [Instagram](http://instagram.com/netmdia)
 [Twitter] (http://twitter.com/nmdia)
 [Facebook](http://www.facebook.com/nmdia)
